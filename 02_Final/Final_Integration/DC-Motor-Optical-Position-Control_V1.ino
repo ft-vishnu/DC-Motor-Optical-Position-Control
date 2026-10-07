@@ -17,7 +17,7 @@
 // ============================================================
 // Wi-Fi
 // ============================================================
-const char* AP_SSID = "OPQC_Motor";
+const char* AP_SSID = "DC-Motor-Optical-Position-Control";
 const char* AP_PASS = "12345678";
 
 WebServer server(80);
@@ -507,7 +507,7 @@ const char MAIN_PAGE[] PROGMEM = R"rawliteral(
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>OPQC Motor Control</title>
+<title>DC-Motor-Optical-Position-Control</title>
 <style>
 *{box-sizing:border-box}
 body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#0b1120;color:#e5e7eb}
