@@ -1,5 +1,4 @@
-// OPQC - Phase 3
-// Test 4 - PD Position Control
+
 
 const int ENCODER_PIN = 4;
 

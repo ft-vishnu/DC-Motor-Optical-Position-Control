@@ -1,6 +1,4 @@
-// OPQC
-// Homing Test 3 - Home Marker Detection
-// Single Optical Sensor + TB6612FNG
+
 
 const int ENCODER_PIN = 4;
 

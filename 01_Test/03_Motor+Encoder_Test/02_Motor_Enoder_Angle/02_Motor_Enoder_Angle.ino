@@ -1,5 +1,4 @@
-// OPQC - Phase 3
-// Test 2 - Motor + Encoder Angle
+
 
 const int ENCODER_PIN = 4;
 

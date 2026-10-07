@@ -135,7 +135,7 @@ This verified that:
 
 ## Code
 
-[View Test 1 Code](./Test_1_Motor_Encoder_Count/)
+[View Test 1 Code](./01_Motor_Encoder_Count/01_Motor_Encoder_Count.ino)
 
 ---
 
@@ -209,7 +209,7 @@ This verified the relationship:
 
 ## Code
 
-[View Test 2 Code](./Test_2_Motor_Encoder_Angle/)
+[View Test 2 Code](./02_Motor_Enoder_Angle/02_Motor_Enoder_Angle.ino)
 
 ---
 
@@ -301,7 +301,7 @@ This led to the introduction of proportional and derivative control.
 
 ## Code
 
-[View Test 3 Code](./Test_3_Initial_PWM_Position_Control/)
+[View Test 3 Code](./03_Target_And_Stop/03_Target_And_Stop.ino)
 
 ---
 
@@ -530,7 +530,7 @@ The P and D components are implemented together in the same control loop.
 
 ## Code
 
-[View Final PD Position Control Code](./Test_4_PD_Position_Control/)
+[View Final PD Position Control Code](./04_PD_Controller/04_PD_Controller.ino)
 
 ---
 

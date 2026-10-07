@@ -1,5 +1,4 @@
-// OPQC - Phase 2
-// Test 3 - Direction + PWM Control
+
 
 const int AIN1 = 15;
 const int AIN2 = 16;

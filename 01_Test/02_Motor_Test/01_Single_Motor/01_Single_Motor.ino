@@ -1,4 +1,4 @@
-// Step 1 - TB6612FNG Single Motor Test
+
 
 const int AIN1 = 15;
 const int AIN2 = 16;

@@ -1,5 +1,4 @@
-// OPQC - Phase 3
-// Test 1 - Motor + Encoder Count
+
 
 const int ENCODER_PIN = 4;
 

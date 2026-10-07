@@ -1,5 +1,4 @@
-// OPQC - Phase 3
-// Test 3 - Relative Position Command
+
 //
 // Goal:
 // Move the motor by a commanded angle relative to the
