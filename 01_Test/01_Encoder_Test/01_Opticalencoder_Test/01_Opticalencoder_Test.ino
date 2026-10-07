@@ -1,5 +1,4 @@
-// OPQC - Phase 1
-// Test 1 - Optical Sensor
+
 
 const int SENSOR_PIN = 4;
 

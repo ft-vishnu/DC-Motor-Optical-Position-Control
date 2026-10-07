@@ -43,7 +43,7 @@ Verify that the optical sensor produces a digital signal when the encoder disk b
 
 ### Code
 
-[View Test 1 Code](./Test_1_Optical_Sensor/)
+[View Test 1 Code](./01_Opticalencoder_Test/01_Opticalencoder_Test.ino)
 
 ---
 
@@ -59,7 +59,7 @@ The ESP32-S3 successfully detects and counts encoder pulses while the disk is ro
 
 ### Code
 
-[View Test 2 Code](./Test_2_Pulse_Counting/)
+[View Test 2 Code](./02_Count_Test/02_Count_Test.ino)
 
 ---
 
@@ -94,7 +94,7 @@ The encoder count remains **cumulative** rather than wrapping at 360°.
 
 ### Code
 
-[View Test 3 Code](./Test_3_Count_to_Angle/)
+[View Test 3 Code](./03_Angle/03_Angle.ino)
 
 ---
 

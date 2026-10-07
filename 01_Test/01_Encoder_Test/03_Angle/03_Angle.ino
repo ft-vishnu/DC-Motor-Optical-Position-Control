@@ -1,5 +1,4 @@
-// OPQC - Phase 1
-// Test 3 - Encoder Count to Angle
+
 
 const int ENCODER_PIN = 4;
 

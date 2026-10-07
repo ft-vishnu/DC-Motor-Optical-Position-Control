@@ -1,5 +1,4 @@
-// OPQC - Build 3
-// Single-Channel Incremental Encoder Test
+
 
 const int ENCODER_PIN = 4;
 
