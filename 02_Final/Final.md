@@ -6,7 +6,7 @@ The final system combines the motor, optical encoder, TB6612FNG motor driver, ho
 
 ## Code
 
-[DC-Motor-Optical-Position-Control.ino](./Final_Integration/DC-Motor-Optical-Position-Control_V1.ino)
+[DC-Motor-Optical-Position-Control.ino](./DC-Motor-Optical-Position-Control_V1/DC-Motor-Optical-Position-Control_V1.ino)
 
 ## Hardware
 

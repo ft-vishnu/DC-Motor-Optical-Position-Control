@@ -1,5 +1,5 @@
 // ============================================================
-// OPQC - Optical Position Control  (state-machine version)
+// 
 //
 // ESP32-S3 + TB6612FNG + single-channel optical encoder
 // Web UI, PD position control, marker-based homing, virtual dial
@@ -17,7 +17,7 @@
 // ============================================================
 // Wi-Fi
 // ============================================================
-const char* AP_SSID = "DC-Motor-Optical-Position-Control";
+const char* AP_SSID = "DC Motor OPC";
 const char* AP_PASS = "12345678";
 
 WebServer server(80);
@@ -576,7 +576,7 @@ button:disabled{opacity:.35;cursor:not-allowed}
 </head>
 <body>
 <div class="container">
- <div class="header"><h1>OPQC Motor Control</h1><p>Optical Position Control</p></div>
+ <div class="header"><h1>DC Motor Optical Position Control</h1><p>Optical Position Control</p></div>
 
  <div class="dashboard">
 
